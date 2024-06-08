@@ -1,2 +1,2 @@
-# BharathIntern
-BharathIntern Tasks for Internship Program
+# IRIS-CLASSIFICATION
+Develop a ML Model for classifying iris flowers based on their features using Python, scikit-learn, and TensorFlow.
